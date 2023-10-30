@@ -24,4 +24,4 @@ EDA stands for "Exploratory Data Analysis." It is an approach to analyzing data 
 
     Pattern Detection: EDA helps in identifying patterns in the data, which can be valuable for making predictions or decisions.
 
-EDA is an important first step in any data analysis process, as it provides a foundation for subsequent modeling and statistical analysis. It helps data analysts and scientists gain insights into the data, understand its strengths and limitations, and decide on the most appropriate analysis methods to apply.
+EDA is an important first step in any data analysis process, as it provides a foundation for subsequent modeling and statistical analysis. It helps data analysts and scientists gain insights into the data, understand its strengths and limitations, and decide on the most appropriate analysis methods to apply.I plan on doing the rest in due time 
