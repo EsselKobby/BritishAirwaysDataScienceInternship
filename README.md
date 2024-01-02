@@ -6,7 +6,7 @@ Web Scraping and Analysis
 This Jupyter notebook contains some code to help show how I was able to complete my virtual internship at British Airways.I was asked to use a package called BeautifulSoup to collect data from the web.Once I am done I will be saving it to my local file called ashesi .csv file and will then start my data analysis..
 
 Data Scraping(Skytrax)
-Skytrax is the website I will betaking my data from amd the link will be included for you to visit[https://www.airlinequality.com/search/?search=British+Airways] to get a specific feedback on the review,you can try this[https://www.airlinequality.com/airline-reviews/british-airways].I will be using Python and BeautifulSoup to help me collect all the links to the reviews and then collect the text data on each of the individual review links.I mean programming makes our life better and also increases productivity
+Skytrax is the website I will betaking my data from amd the link will be included for you to visit[https://www.airlinequality.com/search/?search=British+Airways] to get a specific feedback on the review,you can try this[https://www.airlinequality.com/airline-reviews/british-airways].I will be using Python and BeautifulSoup to help me collect all the links to the reviews and then collect the text data on each of the individual review links.I mean programming makes our life better and also increases productivity.
 
 EDA stands for "Exploratory Data Analysis." It is an approach to analyzing data sets in order to summarize their main characteristics, often with the help of visual methods. The primary goal of EDA is to understand the data, discover patterns, and identify relationships between variables. Some key aspects of EDA include:
 
